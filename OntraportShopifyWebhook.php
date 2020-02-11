@@ -48,7 +48,7 @@ use OntraportAPI\ObjectType;
 
 define(ONTRAPORT_APP_ID, "2_142071_RQgtMVonx");
 define(ONTRAPORT_API_KEY, "n45ftv9JE0T5oKt");
-define(SHOPIFY_WEBHOOK_KEY, "1a2b3c4d5e6f1a2b3c4d5e6f1a2b3c4d5e6f1a2b3c4d5e6f1a2b3c4d5e6f");
+define(SHOPIFY_WEBHOOK_KEY, "6bf5e17dd06f9b10375a4b45f23a5b20dd02ac292fb3832547062d34647993fb");
 
 // optional
 $useVariantProductTitles = false;
